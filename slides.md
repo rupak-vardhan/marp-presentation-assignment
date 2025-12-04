@@ -62,13 +62,12 @@ section::after {
 - Your email included  
 
 ---
-
-_backgroundImage: "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
-_backgroundSize: cover
-_class: bg-box
+<!-- _backgroundImage: "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg" -->
+<!-- _backgroundSize: cover -->
+<!-- _class: bg-box -->
 
 # Background Image Slide
-
+![bg fit]("https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg")
 This slide uses:  
 `_backgroundImage`, `_backgroundSize`, and a custom `.bg-box` style.
 
